@@ -5,7 +5,6 @@ metadata:
 spec:
   entityOperator:
     topicOperator: {}
-    userOperator: {}
   kafka:
     config:
       default.replication.factor: 3
